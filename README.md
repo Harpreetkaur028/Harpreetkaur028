@@ -1,4 +1,3 @@
-### Hi there 👋
  
 <html>
 <head>
@@ -6,8 +5,6 @@
 </head>
   
 <body>
-
-<h2 id="demo">hello1</h2>
     <h1>
         I am Harpreet 
     </h1>
